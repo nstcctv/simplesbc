@@ -1,0 +1,3 @@
+VoIP SBCs are typically either closed source or fairly hard to setup.  SimpleSBC aims to be a dead simple to setup and run allowing anyone with a VoIP network to get the benefits of a session border controller (SBC).
+
+SBCs can sometimes include everything but the kitchen sink (ie that's why they are complicated).  SimpleSBC does a few things and does them well.  It provides a proxy between your VoIP network and your SIP trunk.  It allows you to get call records (CDRs) that you can report on.
